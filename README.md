@@ -1,8 +1,8 @@
 # todo
 
 - Punkte unten anzeigen.
-- Offset bei Tafeln.
+- Offset bei Tafeln fixen.
 - Testen bis zur Endmission.
-- Avian einbauen?
+- Avian einbauen. tisch ist static. https://github.com/Jondolf/avian?tab=readme-ov-file
 - Sounds.
 - Musik?
