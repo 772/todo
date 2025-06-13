@@ -1,14 +1,16 @@
 # todo
 
 - [x] Punkte unten anzeigen.
-- [ ] Oben rechts das entfernen.
+- [ ] Oben rechts der Button zeigt Tipps an? Spiel wird dann zu einfach. :(
 - [ ] Zurückbutton geht zur Auswahl?
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
-- [ ] Avian: Beim Anfassen rotiere.
-- [ ] Avian: Nur beim Fallen hat das eine Objekt Physik.
+- [ ] Avian: Beim Rotation zurücksetzen.
 - [ ] Neuer Sound für Änderungen testen?
+- [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
 - [ ] main menu bg, siehe Schachmuster example
 - [ ] Mehrsprachig.
-- [ ] Myia Bild.
+- [ ] Myia Bild?
+- [ ] Lösungen aus den Dialogen entfernen.
+- [ ] Dialoge überarbeiten per Deepseek.
