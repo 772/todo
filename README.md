@@ -1,4 +1,4 @@
-# todo
+# td
 
 - [x] Punkte unten anzeigen.
 - [ ] Oben rechts der Button zeigt Tipps an? Spiel wird dann zu einfach. :(
