@@ -6,7 +6,7 @@
 - [ ] Grüner Bjtton geht auch zurück zur Auswahl!
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
-- [ ] Avian testen. tisch ist static. https://github.com/Jondolf/avian?tab=readme-ov-file
+- [ ] Avian testen.
 - [ ] Sounds.
 - [ ] Musik.
 - [ ] main menu bg
