@@ -18,3 +18,6 @@
 - [ ] Usability: Mehrere Sprachen
 - [ ] Usability: Beim ersten Start dazu drängen die Optionen zu ändern
 - [ ] Usability: In den Optionen die Formeln mit Symbolen anzeigen (fast fertig :))
+- [ ] Usability: Manche nutzen Kamera kaum. Vllt am Anfang ranzoomen mit Animation?
+- [ ] Usability: Display / Hover Fehler immer noch da.
+- [ ] Usability: Baum erklären??
