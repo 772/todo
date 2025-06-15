@@ -5,7 +5,7 @@
 - [ ] Zurückbutton geht zur Auswahl?
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
-- [ ] Avian: Beim Rotation zurücksetzen.
+- [x] Avian: Beim Rotation zurücksetzen.
 - [ ] Neuer Sound für Änderungen testen?
 - [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
@@ -14,3 +14,7 @@
 - [ ] Myia Bild?
 - [ ] Lösungen aus den Dialogen entfernen.
 - [ ] Dialoge überarbeiten per Deepseek.
+- [ ] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
+- [ ] Usability: Mehrere Sprachen
+- [ ] Usability: Beim ersten Start dazu drängen die Optionen zu ändern
+- [ ] Usability: In den Optionen die Formeln mit Symbolen anzeigen (fast fertig :))
