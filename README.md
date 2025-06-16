@@ -5,7 +5,7 @@
 - [ ] Zurückbutton geht zur Auswahl?
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
-- [x] Avian: Beim Rotation zurücksetzen.
+- [x] Avian: Rotation zurücksetzen.
 - [ ] Neuer Sound für Änderungen testen?
 - [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
