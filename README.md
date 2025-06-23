@@ -22,3 +22,7 @@
 - [ ] Usability: Display / Hover Fehler immer noch da.
 - [ ] Usability: Baum erklären
 - [ ] Regler für Lautstärke Musik/Sound
+- [ ] Credits screen with content of README.md.
+- [ ] roommd: param env len() != 2
+- [ ] broken text as goal pic?
+- [ ] no cheat button on tutorial!
