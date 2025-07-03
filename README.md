@@ -9,7 +9,7 @@
 - [ ] main menu bg, siehe Schachmuster example
 - [x] Mehrsprachig.
 - [ ] Myia Bild?
-- [ ] Lösungen aus den Dialogen entfernen.
+- [x] Lösungen aus den Dialogen entfernen.
 - [ ] Dialoge überarbeiten per Deepseek.
 - [ ] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
 - [ ] Usability: Mehrere Sprachen
