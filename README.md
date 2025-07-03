@@ -1,11 +1,9 @@
 # td
 
-- [x] Punkte unten anzeigen.
 - [ ] Oben rechts der Button zeigt Tipps an
 - [ ] Zurückbutton geht zur Auswahl?
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
-- [x] Avian: Rotation zurücksetzen.
 - [ ] Neuer Sound für Änderungen testen?
 - [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
@@ -24,4 +22,3 @@
 - [ ] Regler für Lautstärke Musik/Sound
 - [ ] Credits screen with content of README.md.
 - [ ] broken text as goal pic?
-- [ ] no cheat button on tutorial!
