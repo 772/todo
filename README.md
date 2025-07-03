@@ -1,14 +1,13 @@
 # td
 
 - [ ] Oben rechts der Button zeigt Tipps an
-- [ ] Zurückbutton geht zur Auswahl?
 - [ ] Offset bei Tafeln fixen.
 - [ ] Testen bis zur Endmission.
 - [ ] Neuer Sound für Änderungen testen?
 - [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
 - [ ] main menu bg, siehe Schachmuster example
-- [ ] Mehrsprachig.
+- [x] Mehrsprachig.
 - [ ] Myia Bild?
 - [ ] Lösungen aus den Dialogen entfernen.
 - [ ] Dialoge überarbeiten per Deepseek.
@@ -20,5 +19,5 @@
 - [ ] Usability: Display / Hover Fehler immer noch da.
 - [ ] Usability: Baum erklären
 - [ ] Regler für Lautstärke Musik/Sound
-- [ ] Credits screen with content of README.md.
+- [x] Credits screen.
 - [ ] broken text as goal pic?
