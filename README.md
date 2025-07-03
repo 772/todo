@@ -7,12 +7,11 @@
 - [ ] Sounds für Aufprall, je nachdem was auf was fällt.
 - [ ] Musik.
 - [ ] main menu bg, siehe Schachmuster example
-- [x] Mehrsprachig.
 - [ ] Myia Bild?
 - [x] Lösungen aus den Dialogen entfernen.
 - [ ] Dialoge überarbeiten per Deepseek.
 - [ ] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
-- [ ] Usability: Mehrere Sprachen
+- [x] Usability: Mehrere Sprachen
 - [x] Usability: Beim ersten Start im Optionsscreen landen
 - [ ] Usability: In den Optionen die Formeln mit Symbolen anzeigen (fast fertig :))
 - [ ] Usability: Display / Hover Fehler immer noch da.
