@@ -13,8 +13,8 @@
 - [ ] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
 - [x] Usability: Mehrere Sprachen
 - [x] Usability: Beim ersten Start im Optionsscreen landen
-- [ ] Usability: In den Optionen die Formeln mit Symbolen anzeigen (siehe Bugmeldung)
-- [ ] Usability: Display / Hover Fehler immer noch da. (siehe Bugmeldung)
+- [x] Usability: In den Optionen die Formeln mit Symbolen anzeigen (siehe Bugmeldung)
+- [x] Usability: Display / Hover Fehler immer noch da. (siehe Bugmeldung)
 - [ ] Usability: Baum erklären
 - [ ] Regler für Lautstärke Musik/Sound
 - [x] Credits screen.
