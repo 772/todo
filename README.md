@@ -10,11 +10,12 @@
 - [ ] Myia Bild?
 - [x] Lösungen aus den Dialogen entfernen.
 - [ ] Dialoge überarbeiten per Deepseek.
-- [ ] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
+- [x] Usability: Lesbare Formel oben als Liveupdate. Nicht an allen Ländern kennt man Bäume.
 - [x] Usability: Mehrere Sprachen
 - [x] Usability: Beim ersten Start im Optionsscreen landen
 - [x] Usability: In den Optionen die Formeln mit Symbolen anzeigen (siehe Bugmeldung)
 - [x] Usability: Display / Hover Fehler immer noch da. (siehe Bugmeldung)
+- [ ] Usability: 3 Spalten für die vielen kleinen Buttons. Anzahl respektieren.
 - [ ] Usability: Baum erklären
 - [ ] Regler für Lautstärke Musik/Sound
 - [x] Credits screen.
